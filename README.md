@@ -1529,7 +1529,7 @@ Every non-trivial software is based on objects that need to communicate with eac
 
 ## Blocks
 
-Blocks are the Objective-C version of well-knows constructs called lambdas or closures available in other languages many years now.
+Blocks are the Objective-C version of well-known constructs called lambdas or closures available in other languages many years now.
 
 They are a great way to design asynchronous APIs as so:
 
